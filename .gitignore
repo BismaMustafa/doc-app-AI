@@ -1,0 +1,13 @@
+# API Keys and Environment Variables
+.env
+.env.local
+backend/.env
+
+# Node Dependencies (Large folders)
+node_modules/
+backend/node_modules/
+frontend/node_modules/
+
+# Logs and System Files
+npm-debug.log*
+.DS_Store
